@@ -1,0 +1,5 @@
+name: Heated Ingot
+author: Radio Silence
+description: "Adds a new ingot to allow players to achieve maxium heat in the PU crucible."
+version: 2.5
+minGameVersion: 125.1
