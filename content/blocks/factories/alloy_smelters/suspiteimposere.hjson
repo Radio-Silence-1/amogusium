@@ -1,0 +1,50 @@
+type : GenericCrafter
+name : SuspiteImposer 
+description : "Makes amogusium"
+outputItem : {
+ item : amogusium
+ amount : 1
+}
+health : 440
+craftTime : 100
+researchCostMultiplier:0.5
+size : 3
+hasPower : true
+buildCostMultiplier:0.5
+hasLiquids : false
+hasItems : true
+updateEffect : pulverize
+consumes : {
+ power : 100
+items: {
+      items: [
+        {
+          item: pyratite
+          amount: 5
+        }
+        {
+         item: blast-compound
+          amount: 10
+        }
+       ]
+      }
+     }
+  requirements: [
+    {
+      item: copper
+      amount: 2500
+    }
+    {
+      item: lead
+      amount: 2500
+    }
+    {
+      item: graphite
+      amount: 100
+    }
+    {
+      item: pyratite
+      amount: 200
+    }
+  ]
+  category: crafting
