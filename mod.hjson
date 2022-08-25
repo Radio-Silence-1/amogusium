@@ -2,4 +2,4 @@ name: Heated Ingot
 author: Radio Silence
 description: "Adds a new ingot to allow players to achieve maxium heat in the PU crucible. [RED]Credit To "uujuju" for the amogusium ingot texture. Credit To "Xelo" for item and factory names."
 version: 2.5
-minGameVersion: 125.1
+minGameVersion: 136
